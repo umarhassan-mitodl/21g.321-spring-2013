@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "French"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ]
+  ],
+  "legacy_uid": "80d77653-1523-df77-1860-945a9ea5e271",
+  "instructors": {
+    "content": [
+      "24f3f1d7-fd77-e510-c075-eb7bcc57e2ba"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "16a82216-bd84-e75f-be9a-bc5f8e0be224",
+    "website": "21g-321-childhood-and-youth-in-french-and-francophone-cultures-spring-2013"
+  },
+  "course_title": "Childhood and Youth in French and Francophone Cultures",
+  "course_description": "This course studies the transformation of childhood and youth since the 18th century in France, as well as the development of sentimentality within the family in a francophone context. Students will examine the personification of children, both as a source of inspiration for artistic creation and a political ideal aimed at protecting future generations, and consider various representations of childhood and youth in literature (e.g., Pagnol, Proust, Sarraute, Lave, Morgievre), movies (e.g., Truffaut), and songs (e.g., Brel, Barbara). This course is taught entirely in French.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.321",
+  "course_image_thumbnail": {
+    "content": "ddf56e17-f41c-5513-944f-2994ab3286a0",
+    "website": "21g-321-childhood-and-youth-in-french-and-francophone-cultures-spring-2013"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "994e533b-b388-488a-bd82-306767d82255",
+  "site_short_id": "21g.321-spring-2013",
+  "site_url_path": "courses/21g-321-childhood-and-youth-in-french-and-francophone-cultures-spring-2013",
+  "title": "Course Metadata"
+}
